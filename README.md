@@ -1,2 +1,2 @@
-# data_science
+# datascience
 for training 
